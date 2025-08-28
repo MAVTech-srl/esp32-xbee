@@ -58,6 +58,7 @@ Load ESP-IDF environment:
 
 Build the project:
 ```bash
+cd ~/esp32-xbee
 idf.py set-target esp32
 idf.py build
 ```
